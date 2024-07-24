@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hebroDates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec18d5225dbac7bb48a3d5c71830a7f8ff5ce8fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("hebroDates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hebroDates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
