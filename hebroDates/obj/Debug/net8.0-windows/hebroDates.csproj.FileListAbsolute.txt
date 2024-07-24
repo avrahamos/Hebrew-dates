@@ -1,0 +1,16 @@
+C:\Users\rd314\source\repos\hebroDates\hebroDates\bin\Debug\net8.0-windows\hebroDates.exe
+C:\Users\rd314\source\repos\hebroDates\hebroDates\bin\Debug\net8.0-windows\hebroDates.deps.json
+C:\Users\rd314\source\repos\hebroDates\hebroDates\bin\Debug\net8.0-windows\hebroDates.runtimeconfig.json
+C:\Users\rd314\source\repos\hebroDates\hebroDates\bin\Debug\net8.0-windows\hebroDates.dll
+C:\Users\rd314\source\repos\hebroDates\hebroDates\bin\Debug\net8.0-windows\hebroDates.pdb
+C:\Users\rd314\source\repos\hebroDates\hebroDates\obj\Debug\net8.0-windows\hebroDates.Form1.resources
+C:\Users\rd314\source\repos\hebroDates\hebroDates\obj\Debug\net8.0-windows\hebroDates.csproj.GenerateResource.cache
+C:\Users\rd314\source\repos\hebroDates\hebroDates\obj\Debug\net8.0-windows\hebroDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rd314\source\repos\hebroDates\hebroDates\obj\Debug\net8.0-windows\hebroDates.AssemblyInfoInputs.cache
+C:\Users\rd314\source\repos\hebroDates\hebroDates\obj\Debug\net8.0-windows\hebroDates.AssemblyInfo.cs
+C:\Users\rd314\source\repos\hebroDates\hebroDates\obj\Debug\net8.0-windows\hebroDates.csproj.CoreCompileInputs.cache
+C:\Users\rd314\source\repos\hebroDates\hebroDates\obj\Debug\net8.0-windows\hebroDates.dll
+C:\Users\rd314\source\repos\hebroDates\hebroDates\obj\Debug\net8.0-windows\refint\hebroDates.dll
+C:\Users\rd314\source\repos\hebroDates\hebroDates\obj\Debug\net8.0-windows\hebroDates.pdb
+C:\Users\rd314\source\repos\hebroDates\hebroDates\obj\Debug\net8.0-windows\hebroDates.genruntimeconfig.cache
+C:\Users\rd314\source\repos\hebroDates\hebroDates\obj\Debug\net8.0-windows\ref\hebroDates.dll
